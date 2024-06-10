@@ -1,4 +1,2 @@
 # Car_Sales_Dashboard
-Here in this dahboard we have tried to analyze the 
-
-diff\n- sales performance
+Here in this dahboard we have tried to analyze the <span style="color: red;"> sales performance </span>
